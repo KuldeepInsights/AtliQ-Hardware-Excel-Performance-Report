@@ -91,9 +91,13 @@ Learned to design user-friendly and insightful sales reports for decision-making
 ~ Key Business Insights & Trends Observed:
 
 ⿡ Amazon’s Sales Growth: Sales surged from ₹12.2M in 2019 to ₹82.1M in 2021, a massive 218.9% increase, showing the dominance of e-commerce.
+
 ⿢ India’s Market Performance: Despite being the largest market with ₹161.3M in sales, it fell short of its target by ₹9.6M (-5.92%), signaling potential gaps in sales execution.
+
 ⿣ Declining Gross Margin %: Atliq Hardwares’ Gross Margin dropped from 41.4% (2019) to 36.4% (2021), indicating rising costs or pricing pressures.
+
 ⿤ New Zealand vs. Germany Profitability: New Zealand had the highest Gross Margin (48.2%), while Germany had the lowest (26.2%), highlighting differences in market efficiency.
+
 ⿥ Overall Sales Growth: Net sales skyrocketed by 204.5% from ₹87.5M (2019) to ₹598.9M (2021), showing rapid business expansion.
 
 
