@@ -1,6 +1,6 @@
 # AtliQ-Hardware-Excel-Performance-Report
 
-Excel Advanced: Sales Analytics project, completed as part of a Codebasics course. The project emphasizes ETL operations, data modeling, and creating insightful reports for sales analysis.
+Excel Advanced: Sales Analytics project. The project emphasizes ETL operations, data modeling, and creating insightful reports for sales analysis.
 
 Project Components
 
